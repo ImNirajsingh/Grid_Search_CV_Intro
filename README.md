@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Iris Dataset Classification & Hyperparameter Tuning
 
 Welcome to this project! This repository contains a Jupyter Notebook dedicated to classifying flower species from the classic Iris dataset using machine learning[cite: 1]. The primary focus of this project is not just on building predictive models, but on demonstrating how to systematically optimize them using advanced hyperparameter tuning techniques[cite: 1]. 
@@ -50,3 +51,7 @@ To run this notebook locally, ensure you have Python installed along with the re
 
 
 Niraj Singh
+=======
+# Grid_Search_CV_Intro
+A beginner-friendly introduction to hyperparameter tuning and model optimization using GridSearchCV in scikit-learn.
+>>>>>>> 9019629af87ac3c9e8dad37b57a1b4950428048d
